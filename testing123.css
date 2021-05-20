@@ -1,0 +1,16 @@
+/* Testing123 Page CSS
+May 19, 2021 */
+
+html {
+    background: #ffffff;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 18px;
+}
+
+img {
+border: 5px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 50%;
+  height: 50%
+}
